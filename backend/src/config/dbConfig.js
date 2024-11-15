@@ -1,10 +1,10 @@
 const mysql = require('mysql2/promise');
 
 const dbConfig = {
-    host: 'calm-essence-db.cpjso9ykqf1z.us-east-1.rds.amazonaws.com',
-    user: 'root',
-    password: '#WebGroup8',
-    database: 'calm_essence',
+    host: 'database-1.cjqys04y48v1.us-east-2.rds.amazonaws.com',
+    user: 'admin',
+    password: 'Nikul25$',
+    database: 'calmease',
 };
 
 module.exports = dbConfig;
