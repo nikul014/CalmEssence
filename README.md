@@ -6,9 +6,6 @@ Calm Essence is a React-based mental wellness platform with a Node.js backend, u
   <img src="https://github.com/nikul014/CalmEssence/blob/main/App%20Preview%20Screenshots/app_logo.png" alt="Watch the App Previews" style="width: 150px; height: auto;">
 </a>
 
-
-* *Date Created*: 08 Aug 2024
-* *Last Modification Date*: 10 Aug 2024
 * *Website URL*: <https://thecalmessence.netlify.app/>
 * *Backend application URL*: <https://csci-5709-group8.onrender.com>
 * *Git URL*: <https://git.cs.dal.ca/parkar/CSCI-5709-Group8>
