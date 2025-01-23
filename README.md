@@ -1,9 +1,9 @@
 # Calm Essence
 
-Calm Essence is a React-based mental wellness platform with Node.js backend, using TailwindCSS for styling, Agora for video calling, and RDS as the database to offer meditations, live sessions, and expert support for mental well-being.
+Calm Essence is a React-based mental wellness platform with a Node.js backend, using TailwindCSS for styling, Agora for video calling, and RDS as the database to offer meditations, live sessions, and expert support for mental well-being.
 
-<a href="/App%20Preview%20Screenshots" target="_blank">
-  <img src="/App%20Preview%20Shots/app_logo.png" alt="Watch the App Previews" style="width: 150px; height: auto;">
+<a href="https://github.com/nikul014/CalmEssence/tree/main/App%20Preview%20Screenshots" target="_blank">
+  <img src="https://github.com/nikul014/CalmEssence/blob/main/App%20Preview%20Screenshots/app_logo.png" alt="Watch the App Previews" style="width: 150px; height: auto;">
 </a>
 
 
